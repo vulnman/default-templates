@@ -1,4 +1,8 @@
 from setuptools import setup, find_packages
+# read the contents of your README file
+from pathlib import Path
+this_directory = Path(__file__).parent
+long_description = (this_directory / "ReadMe.md").read_text()
 
 setup(
     name='vulnman_default_templates',
@@ -9,5 +13,7 @@ setup(
     author='user',
     author_email='',
     include_package_data=True,
-    description='Default vulnman templates'
+    description='Default vulnman templates',
+    long_description=long_description,
+    long_description_content_type='text/markdown'
 )
