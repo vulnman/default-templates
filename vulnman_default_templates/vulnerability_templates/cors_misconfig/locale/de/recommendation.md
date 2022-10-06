@@ -1,0 +1,1 @@
+Verwenden Sie eine Whitelist vertrauenswürdiger Domänen, anstatt einen Platzhalter zu verwenden oder die Herkunft der Daten programmatisch zu überprüfen.

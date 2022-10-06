@@ -1,0 +1,1 @@
+It is recommended to use Anti-CSRF-Token mechanism.

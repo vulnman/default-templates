@@ -1,0 +1,1 @@
+Es wird empfohlen, generische Fehlermeldungen zu erzeugen.

@@ -1,0 +1,1 @@
+Das Zertifikat ist mehr als 200 Tage lang gültig.

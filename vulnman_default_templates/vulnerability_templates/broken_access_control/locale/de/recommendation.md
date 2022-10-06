@@ -1,0 +1,1 @@
+Es wird empfohlen, einen Zugriffskontrollmechanismus zu implementieren, der den Zugriff auf sensible Endpunkte standardmäßig einschränkt.

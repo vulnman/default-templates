@@ -1,0 +1,3 @@
+Die Webanwendung kann nicht ausreichend überprüfen, ob eine wohlgeformte, gültige und konsistente Anfrage absichtlich von dem Benutzer gestellt wurde, der die Anfrage gestellt hat.
+Wenn ein Webserver so konzipiert ist, dass er eine Anfrage von einem Client empfängt, ohne dass ein Mechanismus vorhanden ist, mit dem überprüft werden kann, ob die Anfrage absichtlich gesendet wurde, ist es für einen Angreifer möglich, einen Client dazu zu bringen, eine unbeabsichtigte Anfrage an den Webserver zu stellen, die als authentische Anfrage behandelt wird. 
+Dies kann über eine URL, das Laden eines Bildes, eine XMLHttpRequest usw. geschehen und kann zur Preisgabe von Daten oder zur unbeabsichtigten Ausführung von Code führen. 

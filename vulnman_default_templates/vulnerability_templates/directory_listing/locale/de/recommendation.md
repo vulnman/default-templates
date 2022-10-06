@@ -1,0 +1,5 @@
+Directory listing is a feature of the web server, thus you can disable it in its configuration file, either globally or per virtual host.
+
+How to disable it is specific to the web server that you are using, and independent of the language of your application.
+The configuration can have different names depending on the web server you are using.
+Typical names are Directory Listing, Directory Browsing, Directory Indexing or Indexes.

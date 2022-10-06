@@ -1,0 +1,1 @@
+Installieren Sie Zertifikate, die eine maximale Lebensdauer von 200 Tagen haben.

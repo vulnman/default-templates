@@ -1,0 +1,2 @@
+Es gibt zwar keine zuverlässigen Konfigurationen der betroffenen Webserver, die den Slowloris-Angriff verhindern, aber es gibt Möglichkeiten, die Auswirkungen eines solchen Angriffs zu mildern oder zu reduzieren.
+Dazu gehört im Allgemeinen die Erhöhung der maximalen Anzahl von Clients, die der Server zulässt, die Begrenzung der Anzahl von Verbindungen, die eine einzelne IP-Adresse herstellen darf, die Beschränkung der Mindestübertragungsgeschwindigkeit, die eine Verbindung haben darf, und die Begrenzung der Zeit, die ein Client verbunden bleiben darf.

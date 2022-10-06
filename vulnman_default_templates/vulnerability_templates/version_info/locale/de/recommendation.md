@@ -1,0 +1,1 @@
+Der Dienst oder die Anwendung sollte so konfiguriert werden, dass seine Versionsinformationen verborgen bleiben.

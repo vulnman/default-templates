@@ -1,0 +1,1 @@
+Rather than using a wildcard or programmatically verifying supplied origins, use a whitelist of trusted domains.

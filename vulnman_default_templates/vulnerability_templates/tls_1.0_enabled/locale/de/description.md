@@ -1,0 +1,3 @@
+Der Webserver unterstützt die Verschlüsselung mittels TLS 1.0, die im März 2021 aufgrund inhärenter Sicherheitsprobleme formell veraltet ist. 
+Darüber hinaus gilt TLS 1.0 nicht als "starke Kryptografie", wie sie im PCI-Datensicherheitsstandard 3.2(.1) definiert und gefordert wird, wenn es zum Schutz sensibler Daten verwendet wird, die an oder von Websites übertragen werden.
+Laut PCI ist der 30. Juni 2018 der Stichtag für die Deaktivierung von SSL/früher TLS und die Implementierung eines sichereren Verschlüsselungsprotokolls - TLS 1.1 oder höher (TLS v1.2 wird dringend empfohlen), um den PCI Data Security Standard (PCI DSS) zum Schutz von Zahlungsdaten zu erfüllen.
